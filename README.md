@@ -1,5 +1,4 @@
 # Coursera-Certifications
-Excel basics for data analytics by IBM
 The future of payment technologies by university Of Michigan
 Financial Markets by Yale University
 Understanding Economic Policymaking by IE Business School
